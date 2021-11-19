@@ -1,2 +1,2 @@
-# hi_2017
-Personal website created in 2017
+# hi
+Personal website, continual work in progress
